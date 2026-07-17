@@ -1,0 +1,16 @@
+{
+  "window_size": 999,
+  "window_step": 999,
+  "minimum_tail_size": 500,
+  "maximum_windows_per_isolate": 256,
+  "kmer_max_windows_per_isolate": 64,
+  "random_seed": 42,
+  "split_fractions": {
+    "train": 0.7,
+    "dev": 0.15,
+    "test": 0.15
+  },
+  "dnabert_model": "zhihan1996/DNABERT-2-117M",
+  "dnabert_batch_size": 8,
+  "kmer_range": [4, 6]
+}

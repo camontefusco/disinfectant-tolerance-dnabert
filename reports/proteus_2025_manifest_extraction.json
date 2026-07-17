@@ -1,0 +1,11 @@
+{
+  "decision": "blocked_manual_supplement_download_required",
+  "valid_supplement_found": false,
+  "expected_file": "data/raw/proteus_2025/mic-171-01580-s001.xlsx",
+  "manual_fallbacks_checked": [
+    "/Users/cmontefusco/Downloads/mic-171-01580-s001.xlsx",
+    "data/raw/proteus_2025/Table_S1.xlsx",
+    "data/raw/proteus_2025/proteus_table_s1.xlsx"
+  ],
+  "recommended_next_action": "Download mic-171-01580-s001.xlsx from the PMC article in a browser, place it at data/raw/proteus_2025/mic-171-01580-s001.xlsx or ~/Downloads/mic-171-01580-s001.xlsx, then rerun this script."
+}

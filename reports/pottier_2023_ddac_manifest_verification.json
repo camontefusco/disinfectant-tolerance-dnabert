@@ -1,0 +1,79 @@
+{
+  "study": "Pottier et al. 2023 Scientific Reports",
+  "doi": "10.1038/s41598-023-29590-0",
+  "figshare_collection": "10.6084/m9.figshare.c.6293046.v6",
+  "bioproject": "PRJNA884650",
+  "figshare_items": 12,
+  "figshare_files": 12,
+  "machine_readable_table_files": 0,
+  "ddac_mentioning_files": 5,
+  "machine_readable_ddac_files": 0,
+  "ncbi_assembly_records": 77,
+  "unique_strains_in_assembly": 77,
+  "sequenced_panel_figshare_items": [
+    {
+      "title": "FIGURE 3. Minimum spanning tree of strains from panel for genomic characterization and reference strains (n=77+4).",
+      "doi": "10.6084/m9.figshare.21534627.v3",
+      "file_name": "20221104_fig3.tiff",
+      "file_mimetype": "image/tiff"
+    },
+    {
+      "title": "FIGURE 4. Antimicrobials resistance-associated genes of strains from panel for genomic characterization and reference strains (n=77+4).",
+      "doi": "10.6084/m9.figshare.21534642.v2",
+      "file_name": "20220922_fig4.tiff",
+      "file_mimetype": "image/tiff"
+    },
+    {
+      "title": "TABLE 3. Serotyping and multilocus sequence typing (MLST) of all sequenced strains: the panel for genomic characterization (n=77) and reference strains (n=4).",
+      "doi": "10.6084/m9.figshare.21534702.v2",
+      "file_name": "table3.svg",
+      "file_mimetype": "image/svg"
+    },
+    {
+      "title": "SUPPLEMENTARY DATA 4. Temporal distribution: of all <i>Pseudomonas aeruginosa</i> strains isolated at Caen UHC over 2011-2020, the study panel, and of genomic characterization panel.",
+      "doi": "10.6084/m9.figshare.21534753.v2",
+      "file_name": "sd_table4.svg",
+      "file_mimetype": "image/svg"
+    }
+  ],
+  "phenotype_figshare_items": [
+    {
+      "title": "FIGURE 1. Antimicrobial resistance for hospital strains (n=4,375) and study panel (n=180).",
+      "doi": "10.6084/m9.figshare.21533967.v6",
+      "file_name": "20221104_fig1.tiff",
+      "file_mimetype": "image/tiff",
+      "machine_readable_table_file": false
+    },
+    {
+      "title": "FIGURE 2. Annual frequency of carbapenem resistance phenotype for all <i>P. aeruginosa</i> P strains tested for antibiotic susceptibility at the University Hospital of Caen n=4,375 (a) and the study panel n=180 (b); and annual frequency of the decreased susceptibility to DDAC phenotype on the study panel (b).",
+      "doi": "10.6084/m9.figshare.21534396.v3",
+      "file_name": "20221104_fig2.tiff",
+      "file_mimetype": "image/tiff",
+      "machine_readable_table_file": false
+    },
+    {
+      "title": "FIGURE 3. Minimum spanning tree of strains from panel for genomic characterization and reference strains (n=77+4).",
+      "doi": "10.6084/m9.figshare.21534627.v3",
+      "file_name": "20221104_fig3.tiff",
+      "file_mimetype": "image/tiff",
+      "machine_readable_table_file": false
+    },
+    {
+      "title": "FIGURE 4. Antimicrobials resistance-associated genes of strains from panel for genomic characterization and reference strains (n=77+4).",
+      "doi": "10.6084/m9.figshare.21534642.v2",
+      "file_name": "20220922_fig4.tiff",
+      "file_mimetype": "image/tiff",
+      "machine_readable_table_file": false
+    },
+    {
+      "title": "SUPPLEMENTARY DATA 6. Antimicrobial resistance for the study panel (n=180).",
+      "doi": "10.6084/m9.figshare.21534780.v2",
+      "file_name": "Supplementary_data6.tiff",
+      "file_mimetype": "image/tiff",
+      "machine_readable_table_file": false
+    }
+  ],
+  "can_build_supervised_manifest_without_manual_extraction": false,
+  "decision": "blocked_missing_machine_readable_row_level_ddac_labels",
+  "recommended_next_action": "Do not train yet. Assemblies are available through NCBI Assembly, but the public figshare phenotype materials are image/SVG/TIFF files rather than a row-level CSV/XLSX table. Contact authors or perform documented manual/OCR extraction before building a supervised DDAC manifest."
+}

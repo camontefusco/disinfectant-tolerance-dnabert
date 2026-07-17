@@ -1,0 +1,27 @@
+{
+  "source": {
+    "database": "BacMet 2.0 experimentally confirmed resistance genes",
+    "fasta_url": "http://bacmet.biomedicine.gu.se/download/BacMet2_EXP_database.fasta",
+    "mapping_url": "http://bacmet.biomedicine.gu.se/download/BacMet2_EXP.753.mapping.txt",
+    "fasta_bytes": 390211,
+    "mapping_bytes": 117790
+  },
+  "inventory": {
+    "protein_records": 753,
+    "protein_bacmet_ids": 748,
+    "protein_ids_with_multiple_variants": 5,
+    "mapping_rows": 753,
+    "bacmet_ids": 748,
+    "uniprot_accessions": 753,
+    "qac_annotation_rows": 91,
+    "biocide_annotation_rows": 229,
+    "metal_annotation_rows": 473,
+    "all_mapping_rows_have_protein": true,
+    "fasta_is_nucleotide_only": false
+  },
+  "external_validation_gate": {
+    "status": "annotation_only_not_independent_dnabert_nucleotide_validation",
+    "reason": "The BacMet experimentally confirmed release is protein FASTA with UniProt accessions. A DNABERT nucleotide challenge set requires a separately audited protein-to-CDS mapping. BacMet-derived references have also contributed to MEGARes, so BacMet should be used as an interpretable annotation layer rather than claimed as independent model validation.",
+    "next_use": "Use BacMet gene, compound, and QAC annotations beside exploratory pharmaceutical-water genome scores. Add a reviewed UniProt-to-CDS mapping only if nucleotide-level annotation or enrichment analysis is needed."
+  }
+}

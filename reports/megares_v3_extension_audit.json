@@ -1,0 +1,77 @@
+{
+  "source": {
+    "database": "MEGARes v3.0",
+    "fasta_url": "https://www.meglab.org/downloads/megares_v3.00/megares_database_v3.00.fasta",
+    "annotations_url": "https://www.meglab.org/downloads/megares_v3.00/megares_annotations_v3.00.csv",
+    "fasta_bytes": 9599343,
+    "annotations_bytes": 1043511
+  },
+  "all_sequences": {
+    "count": 8733,
+    "type_counts": {
+      "Drugs": 7570,
+      "Metals": 529,
+      "Multi-compound": 482,
+      "Biocides": 152
+    }
+  },
+  "exploratory_subset": {
+    "types": [
+      "Biocides",
+      "Metals",
+      "Multi-compound"
+    ],
+    "count": 1163,
+    "type_counts": {
+      "Metals": 529,
+      "Multi-compound": 482,
+      "Biocides": 152
+    },
+    "class_counts": {
+      "Drug and biocide resistance": 384,
+      "Multi-metal resistance": 224,
+      "Copper resistance": 115,
+      "Multi-biocide resistance": 98,
+      "Mercury resistance": 62,
+      "Biocide and metal resistance": 56,
+      "Drug and biocide and metal resistance": 38,
+      "Arsenic resistance": 34,
+      "Nickel resistance": 27,
+      "Acid resistance": 16,
+      "Zinc resistance": 16,
+      "Chromium resistance": 15,
+      "Phenolic compound resistance": 13,
+      "Tellurium resistance": 12,
+      "Peroxide resistance": 12,
+      "Iron resistance": 6,
+      "Lead resistance": 5,
+      "Sodium resistance": 4,
+      "Drug and metal resistance": 4,
+      "Acetate resistance": 3,
+      "Tungsten Resistance": 3,
+      "Paraquat resistance": 3,
+      "Polyamine resistance": 2,
+      "Aluminum resistance": 2,
+      "Quaternary Ammonium Compounds (QACs) resistance": 2,
+      "Cobalt resistance": 2,
+      "Cadmium resistance": 1,
+      "Gold resistance": 1,
+      "Naphthoquinone": 1,
+      "Biguanide resistance": 1,
+      "Aldehyde resistance": 1
+    },
+    "mechanism_count": 85,
+    "group_count": 645,
+    "requires_snp_confirmation": 20,
+    "sequence_length": {
+      "min": 121,
+      "median": 1014.0,
+      "max": 4647
+    }
+  },
+  "modeling_gate": {
+    "status": "go_exploratory_fragment_classifier",
+    "claim_boundary": "Use MEGARes labels to classify resistance-associated fragments and prioritize genomic regions. Do not interpret the output as validated sanitizer-survival prediction for an isolate.",
+    "recommended_split": "Hold out entire MEGARes group labels during evaluation to reduce close-homolog leakage. For stronger publication work, add nucleotide-similarity clustering before splitting."
+  }
+}

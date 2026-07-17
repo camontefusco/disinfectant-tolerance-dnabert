@@ -1,0 +1,21 @@
+{
+  "model": "known_qac_determinant_blastn_rule",
+  "minimum_identity": 80.0,
+  "minimum_coverage": 0.8,
+  "balanced_accuracy": 0.9666666666666667,
+  "roc_auc": 0.9666666666666667,
+  "isolate_count": 197,
+  "gene_positive_isolates": 42,
+  "gene_counts": {
+    "bcrABC": 8,
+    "qacH": 32,
+    "emrE": 0,
+    "emrC": 2
+  },
+  "unexplained_tolerant_count": 3,
+  "unexplained_tolerant_isolates": [
+    "DTU_2022_1016193_1_SI_L246_S33",
+    "DTU_2022_1016666_1_SI_1883_S185",
+    "L1751"
+  ]
+}

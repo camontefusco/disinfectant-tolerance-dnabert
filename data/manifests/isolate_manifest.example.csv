@@ -1,0 +1,4 @@
+isolate_id,assembly_path,label,group,mic_bc_mg_l,source,ena_accession
+EXAMPLE_TOLERANT,data/raw/assemblies/EXAMPLE_TOLERANT.fasta,1,CC_DEMO_A,2.5,example,ERR000001
+EXAMPLE_SENSITIVE,data/raw/assemblies/EXAMPLE_SENSITIVE.fasta,0,CC_DEMO_B,0.625,example,ERR000002
+

@@ -1,0 +1,13 @@
+{
+  "candidates_checked": 4,
+  "candidate_manifest_extraction_ready": 1,
+  "sequence_public_but_row_level_table_not_found": 1,
+  "top_next_candidates": [
+    "proteus_2025_chx_cationic",
+    "enterococcus_faecium_2019_chx",
+    "enterococcus_faecalis_2022_chx",
+    "hospital_environment_chx_2024"
+  ],
+  "decision": "extract_manifest_for_ready_candidate",
+  "recommended_next_action": "Proceed to row-level manifest extraction for: proteus_2025_chx_cationic"
+}

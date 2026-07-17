@@ -1,0 +1,13 @@
+{
+  "studies_audited": 5,
+  "row_level_ab_2017_biocide_rows": 48,
+  "row_level_ab_2017_isolates": 24,
+  "supervised_ml_ready_studies": 0,
+  "decision": "no_additional_supervised_organism_ready",
+  "best_near_misses": [
+    "A. baumannii 2017: row-level biocide MICs, but no public genome linkage.",
+    "K. pneumoniae 2024 aged-care: public genomes, but biocide MICs are aggregate.",
+    "A. baumannii 2025 source study: likely useful xlsx supplements, but automated download needs separate handling."
+  ],
+  "recommended_next_action": "Do not start modeling. Use these papers as rationale/context unless author/raw supplemental row-level phenotype-genome data are recovered."
+}

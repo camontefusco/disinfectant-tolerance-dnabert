@@ -1,0 +1,67 @@
+{
+  "article": {
+    "title": "Listeria sanitizer tolerance at use-level concentrations shows limited association with genetic loci",
+    "doi": "10.1128/aem.01060-25",
+    "pmc_id": "PMC12915297",
+    "published_online": "2026-01-20"
+  },
+  "public_sources": {
+    "supplementary_zip_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12915297/supplementaryFiles",
+    "cornell_item_url": "https://ecommons.cornell.edu/items/1f09ec05-8d58-4c70-a477-c55c2e23bdac",
+    "cornell_assembly_zip_bytes": 79821583,
+    "cornell_assembly_zip_mb": 79.82
+  },
+  "supplementary_table_s1": {
+    "isolates": 501,
+    "columns": [
+      "Isolate_ID",
+      "Species",
+      "Lineage",
+      "Environment",
+      "Year_of_Isolation",
+      "Isolate_Accession"
+    ],
+    "species_counts": {
+      "L. monocytogenes": 328,
+      "L. seeligeri": 70,
+      "L. innocua": 59,
+      "L. welshimeri": 33,
+      "L. marthii": 6,
+      "L. ivanovii": 5
+    },
+    "lineage_counts": {
+      "II": 210,
+      "<missing>": 173,
+      "I": 96,
+      "III": 22
+    },
+    "environment_counts": {
+      "Postharvest": 416,
+      "Preharvest": 85
+    },
+    "l_monocytogenes_isolates": 328,
+    "ecommons_accession_rows": 348,
+    "non_ecommons_accession_rows": 153,
+    "phenotype_label_columns": []
+  },
+  "cornell_deposit": {
+    "metadata_isolates": 89,
+    "metadata_columns": [
+      "Isolate_ID",
+      "File_Name",
+      "Species",
+      "Environment",
+      "Year"
+    ],
+    "s1_isolates_matching_cornell_metadata": 89
+  },
+  "current_project_overlap": {
+    "exact_normalized_isolate_overlap": 0,
+    "overlapping_isolates": []
+  },
+  "modeling_gate": {
+    "status": "blocked_missing_public_isolate_level_labels",
+    "reason": "Public Table S1 provides isolate metadata and assembly-accession routes, but no isolate-level BC, PAA, or NaOCl log-reduction labels. The Cornell deposit adds assemblies and metadata only.",
+    "required_next_step": "Ask the corresponding author for an isolate-level phenotype table with replicate-level or averaged log reductions for BC, PAA, and NaOCl before downloading assemblies for model training."
+  }
+}

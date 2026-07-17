@@ -1,0 +1,49 @@
+study_key,citation_short,organism,isolate_id,compound,endpoint,value,units,antibiotic_susceptibility,genome_link_status,source_url,doi
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB01,triclosan,MIC,16,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB01,chlorhexidine acetate,MIC,32,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB03,triclosan,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB03,chlorhexidine acetate,MIC,64,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB07,triclosan,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB07,chlorhexidine acetate,MIC,16,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB08,triclosan,MIC,8,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB08,chlorhexidine acetate,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB09,triclosan,MIC,8,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB09,chlorhexidine acetate,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB12,triclosan,MIC,8,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB12,chlorhexidine acetate,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB14,triclosan,MIC,4,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB14,chlorhexidine acetate,MIC,16,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB22,triclosan,MIC,16,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB22,chlorhexidine acetate,MIC,32,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB23,triclosan,MIC,2,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB23,chlorhexidine acetate,MIC,16,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB24,triclosan,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB24,chlorhexidine acetate,MIC,16,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB26,triclosan,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB26,chlorhexidine acetate,MIC,16,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB27,triclosan,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB27,chlorhexidine acetate,MIC,16,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB30,triclosan,MIC,> 256,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB30,chlorhexidine acetate,MIC,64,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB32,triclosan,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB32,chlorhexidine acetate,MIC,32,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB33,triclosan,MIC,8,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB33,chlorhexidine acetate,MIC,8,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB34,triclosan,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB34,chlorhexidine acetate,MIC,32,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB35,triclosan,MIC,> 256,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB35,chlorhexidine acetate,MIC,64,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB36,triclosan,MIC,16,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB36,chlorhexidine acetate,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB37,triclosan,MIC,32,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB37,chlorhexidine acetate,MIC,32,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB39,triclosan,MIC,128,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB39,chlorhexidine acetate,MIC,32,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB40,triclosan,MIC,128,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB40,chlorhexidine acetate,MIC,16,ug/mL,MDR,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB42,triclosan,MIC,64,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB42,chlorhexidine acetate,MIC,16,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB43,triclosan,MIC,128,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB43,chlorhexidine acetate,MIC,64,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB47,triclosan,MIC,128,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
+ab_2017,"Lin et al. 2017, Frontiers in Microbiology",Acinetobacter baumannii,AB47,chlorhexidine acetate,MIC,16,ug/mL,S,not_confirmed,https://pmc.ncbi.nlm.nih.gov/articles/PMC5622949/,10.3389/fmicb.2017.01836
