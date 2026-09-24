@@ -1,0 +1,41 @@
+region_id,taxon_query,assembly_accession,best_megares_class,exploratory_biocide_relevance_score,selective_dnabert2_biocide_relevance_score,evidence_channels,amrfinder_element_symbol,amrfinder_class,bacmet_gene_name,bacmet_has_qac_annotation
+PWR000062,Burkholderia cepacia complex,GCF_040215475.1,Drug and biocide resistance,0.6807788867430898,0.6843189716339111,5,norM,EFFLUX,norM/pmpM,True
+PWR000034,Burkholderia cepacia complex,GCF_020099355.1,Drug and biocide resistance,0.7813176850712178,0.6625373899936676,5,norM,EFFLUX,norM/pmpM,True
+PWR000007,Burkholderia cepacia complex,GCF_000959445.1,Drug and biocide resistance,0.7457464801333396,0.6625373899936676,5,norM,EFFLUX,norM/pmpM,True
+PWR000115,Burkholderia cepacia complex,GCF_019930785.1,Drug and biocide resistance,0.7912736724254554,0.6292403221130372,5,norM,EFFLUX,norM/pmpM,True
+PWR000088,Burkholderia cepacia complex,GCF_000012945.1,Drug and biocide resistance,0.7826376039811612,0.5763370156288147,5,norM,EFFLUX,norM/pmpM,True
+PWR001047,Stenotrophomonas maltophilia,GCF_041294385.1,Drug and biocide resistance,0.9034371601827338,0.8638529896736145,4,smeF,QUINOLONE,smeF,False
+PWR000937,Stenotrophomonas maltophilia,GCF_012647025.1,Drug and biocide resistance,0.9093270161508687,0.8638518571853637,4,smeF,QUINOLONE,smeF,False
+PWR000494,Pseudomonas aeruginosa,GCF_029962205.1,Drug and biocide resistance,0.9436317045259552,0.863762629032135,4,mexA,EFFLUX,mexA,False
+PWR000302,Pseudomonas aeruginosa,GCF_000006765.1,Drug and biocide resistance,0.956504274323702,0.8635072946548462,4,mexA,EFFLUX,mexA,False
+PWR000143,Pseudomonas aeruginosa,GCF_001457615.1,Drug and biocide resistance,0.9451701982004602,0.8624926686286927,4,mexA,EFFLUX,mexA,False
+PWR000222,Pseudomonas aeruginosa,GCF_001045685.1,Drug and biocide resistance,0.9451701982004602,0.8624926686286927,4,mexA,EFFLUX,mexA,False
+PWR000311,Pseudomonas aeruginosa,GCF_000006765.1,Drug and biocide resistance,0.9335193415674284,0.86232430934906,4,mexE,EFFLUX,mexF,False
+PWR000309,Pseudomonas aeruginosa,GCF_000006765.1,Drug and biocide resistance,0.9443580641541988,0.8622559666633606,4,mexE,EFFLUX,mexF,False
+PWR000403,Pseudomonas aeruginosa,GCF_031223175.1,Drug and biocide resistance,0.931833450261044,0.8617529153823853,4,mexE,EFFLUX,mexF,False
+PWR000304,Pseudomonas aeruginosa,GCF_000006765.1,Drug and biocide resistance,0.9544547812131278,0.8594698309898376,4,mexA,EFFLUX,mexB,False
+PWR000877,Stenotrophomonas maltophilia,GCF_055382875.1,Multi-biocide resistance,0.7942448207821142,0.8556053638458252,4,,,smrA,True
+PWR000936,Stenotrophomonas maltophilia,GCF_012647025.1,Drug and biocide resistance,0.8610350125763564,0.8524300456047058,4,smeF,QUINOLONE,smeE,False
+PWR000496,Pseudomonas aeruginosa,GCF_029962205.1,Drug and biocide resistance,0.9418172462062872,0.8522937178611756,4,mexA,EFFLUX,mexB,False
+PWR000145,Pseudomonas aeruginosa,GCF_001457615.1,Drug and biocide resistance,0.938015656710237,0.8505839109420776,4,mexA,EFFLUX,mexB,False
+PWR000224,Pseudomonas aeruginosa,GCF_001045685.1,Drug and biocide resistance,0.938015656710237,0.8505839109420776,4,mexA,EFFLUX,mexB,False
+PWR001046,Stenotrophomonas maltophilia,GCF_041294385.1,Drug and biocide resistance,0.8621476893054112,0.8486353635787964,4,smeF,QUINOLONE,smeE,False
+PWR000032,Burkholderia cepacia complex,GCF_020099355.1,Biocide and metal resistance,0.6694577990237592,0.6595609605312347,4,dpsA,,dpsA,False
+PWR000033,Burkholderia cepacia complex,GCF_020099355.1,Biocide and metal resistance,0.676132677470005,0.6519240021705628,4,dpsA,,dpsA,False
+PWR000113,Burkholderia cepacia complex,GCF_019930785.1,Biocide and metal resistance,0.7229220892357557,0.5633705079555511,4,dpsA,,dpsA,False
+PWR000114,Burkholderia cepacia complex,GCF_019930785.1,Biocide and metal resistance,0.7125707434241872,0.4712614119052887,4,dpsA,,dpsA,False
+PWR000434,Pseudomonas aeruginosa,GCF_031223175.1,Drug and biocide resistance,0.7324131187727173,,4,sul1,SULFONAMIDE,qacEdelta1,True
+PWR000532,Pseudomonas aeruginosa,GCF_029962205.1,Drug and biocide resistance,0.7324131187727173,,4,sul1,SULFONAMIDE,qacEdelta1,True
+PWR000531,Pseudomonas aeruginosa,GCF_029962205.1,Drug and biocide resistance,0.7010098483901394,,4,sul1,SULFONAMIDE,qacEdelta1,True
+PWR000433,Pseudomonas aeruginosa,GCF_031223175.1,Drug and biocide resistance,0.6934756762949071,,4,sul1,SULFONAMIDE,qacEdelta1,True
+PWR000809,Stenotrophomonas maltophilia,GCF_052983215.1,Multi-biocide resistance,0.8981481390583437,0.8647271156311035,3,,,tolCsm,False
+PWR000879,Stenotrophomonas maltophilia,GCF_055382875.1,Multi-biocide resistance,0.9005205412041821,0.864700448513031,3,,,tolCsm,False
+PWR000992,Stenotrophomonas maltophilia,GCF_041320575.1,Multi-biocide resistance,0.9147922065625548,0.8646836876869202,3,,,tolCsm,False
+PWR000793,Stenotrophomonas maltophilia,GCF_052983215.1,Drug and biocide resistance,0.9127789427042536,0.8645443916320801,3,emrA,EFFLUX,,
+PWR000840,Stenotrophomonas maltophilia,GCF_055382875.1,Drug and biocide resistance,0.9130905803284068,0.8645293354988098,3,emrA,EFFLUX,,
+PWR000935,Stenotrophomonas maltophilia,GCF_012647025.1,Drug and biocide resistance,0.9354494459212882,0.8641568899154664,3,,,smeD,False
+PWR001045,Stenotrophomonas maltophilia,GCF_041294385.1,Drug and biocide resistance,0.934984958403375,0.8640574932098388,3,,,smeD,False
+PWR000795,Stenotrophomonas maltophilia,GCF_052983215.1,Drug and biocide resistance,0.9262626122073384,0.863959264755249,3,emrC,EFFLUX,,
+PWR000842,Stenotrophomonas maltophilia,GCF_055382875.1,Drug and biocide resistance,0.9261203221286468,0.8635023474693299,3,emrC,EFFLUX,,
+PWR000337,Pseudomonas aeruginosa,GCF_000006765.1,Drug and biocide resistance,0.95406346022808,0.8631522536277771,3,,,oprN,False
+PWR000176,Pseudomonas aeruginosa,GCF_001457615.1,Multi-biocide resistance,0.9405283826745964,0.8631058454513549,3,,,mexB,False
