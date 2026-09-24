@@ -16,6 +16,8 @@ Authoritative submitted files are preserved in `source/`. Revised working files 
 - Reviewer 2, readability: rewrote the Abstract in plainer language and explained DNABERT2 as a numerical DNA representation used by a separate classifier.
 - Reviewer 2, references: checked internal citation consistency for BacMet, MEGARes 3.0, AMRFinderPlus, DNABERT2, Gmeiner et al. (2025), and key organism studies.
 - Editor: retained and improved short alt-text descriptions beneath every figure legend.
+- First Look editorial check (23 September 2026): incorporated the full title page into the main manuscript file, including the author, affiliation, corresponding-author postal address, email, and telephone number.
+- First Look editorial check (23 September 2026): reformatted all 13 references to Oxford SciMed journal style, including abbreviated journal titles, first three authors followed by *et al.* for four or more authors, elided page spans, and consistently formatted DOI links.
 
 ## Verification
 
@@ -24,6 +26,7 @@ Authoritative submitted files are preserved in `source/`. Revised working files 
 - Figure legends render: 1 page, visually inspected.
 - Tracked manuscript: 20 paragraph replacements; accepting all tracked changes reproduces the clean manuscript text exactly.
 - Response letter generated only after the manuscript alterations were completed.
+- First Look corrected manuscript: 18 pages, visually inspected page by page; valid DOCX archive; continuous line numbering preserved; no tracked changes, comments, or unresolved placeholders.
 
 ## Remaining author checks before submission
 
